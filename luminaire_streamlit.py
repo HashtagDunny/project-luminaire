@@ -1,4 +1,4 @@
-# Project Luminaire: A Streamlit App for Analyzing SOXL with Bollinger Bands
+/# Project Luminaire: A Streamlit App for Analyzing SOXL with Bollinger Bands
 # This app allows users to input queries in natural language to analyze the SOXL stock using Bollinger Bands and other historical analysis.
 # luminaire_streamlit.py
 
@@ -28,7 +28,7 @@ st.set_page_config(page_title="Project Luminaire", layout="centered", initial_si
 st.markdown("<style>body { background-color: #0E1117; color: white; }</style>", unsafe_allow_html=True)
 
 # Logo
-st.image("ddp_logo.png", width=100)
+st.image("assets/ddp_logo.png", width=100)
 st.title("Project Luminaire")
 
 # User input
