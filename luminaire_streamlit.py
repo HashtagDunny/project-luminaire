@@ -28,7 +28,7 @@ st.set_page_config(page_title="Project Luminaire", layout="centered", initial_si
 st.markdown("<style>body { background-color: #0E1117; color: white; }</style>", unsafe_allow_html=True)
 
 # Logo
-st.image("luminaire_logo.png", width=100)
+st.image("ddp_logo.png", width=100)
 st.title("Project Luminaire")
 
 # User input
